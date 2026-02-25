@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "category": "Electronics",
+    "price": 15.99,
+    "rating": 4.3,
+    "stock": 120,
+    "brand": "LogiTech"
+  },
+  {
+    "id": 3,
+    "name": "Smart TV",
+    "category": "Electronics",
+    "price": 399.99,
+    "rating": 5.0,
+    "stock": 100,
+    "brand": "SONY",
+    "in_stock": true,
+    "is_popular": true,
+    "price_with_tax": 471.99
+  }
+]
